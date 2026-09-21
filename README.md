@@ -1,0 +1,24 @@
+# SUVADU Privacy Policy
+
+Official Privacy Policy for **SUVADU – Expense Tracker**.
+
+SUVADU is a simple expense tracking application designed to help users record and manage their personal and business expenses.
+
+## Privacy Policy
+
+The Privacy Policy is available here:
+
+**https://YOUR-USERNAME.github.io/suvadu-privacy-policy/**
+
+> Replace `YOUR-USERNAME` with your GitHub username.
+
+## Purpose
+
+This repository is used to publicly host the Privacy Policy for SUVADU so that it can be accessed through a public URL, including for Google Play Store requirements.
+
+## Repository Contents
+
+```text
+suvadu-privacy-policy/
+├── index.html
+└── README.md
