@@ -10,15 +10,7 @@ The Privacy Policy is available here:
 
 **https://md-haroon.github.io/suvadu-privacy-policy/**
 
-> Replace `YOUR-USERNAME` with your GitHub username.
-
 ## Purpose
 
 This repository is used to publicly host the Privacy Policy for SUVADU so that it can be accessed through a public URL, including for Google Play Store requirements.
 
-## Repository Contents
-
-```text
-suvadu-privacy-policy/
-├── index.html
-└── README.md
