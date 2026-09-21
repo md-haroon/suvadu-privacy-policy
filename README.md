@@ -8,7 +8,7 @@ SUVADU is a simple expense tracking application designed to help users record an
 
 The Privacy Policy is available here:
 
-**https://YOUR-USERNAME.github.io/suvadu-privacy-policy/**
+**https://md-haroon.github.io/suvadu-privacy-policy/**
 
 > Replace `YOUR-USERNAME` with your GitHub username.
 
